@@ -17,3 +17,7 @@ Image Processing
 - PyTesseract
 - Image
 - json
+
+
+Potential areas of exploration
+- Bespoke FCN to pull text from images (instead of PyTesseract)
